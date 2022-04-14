@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-07 10:27+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: keima set google analytcs\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "Set Google Analytics"
+msgstr "Google Analytics設定"
+
+msgid "Google Analytics ID"
+msgstr "Google Analytics ID"
+
+msgid "Such as \"G-XXXXXXXXXX\""
+msgstr "「G-XXXXXXXXXX」といった値です。"
+
+msgid "Include user ID in log"
+msgstr "ユーザIDログ送付の有無"
+
+msgid "Yes"
+msgstr "あり"
+
+msgid "No"
+msgstr "なし"
